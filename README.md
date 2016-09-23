@@ -43,6 +43,7 @@
 - [特殊行业所需资质材料（0923）] (http://wxopen.notedown.cn/product/material.html)
 
 ## 教程
+
 - [解决微信web开发者工具崩溃导致无法使用问题（0923）](http://www.jianshu.com/p/933e307da580)
 - [博卡君的应用号（小程序）开发教程首发第二弹！（0923）] (https://my.oschina.net/wwnick/blog/750495)
 - [微信小程序开发环境搭建（0923）] (http://mp.weixin.qq.com/s?__biz=MzIyNjE4NjI2Nw==&mid=2652557458&idx=1&sn=9300a6486ffc9e9cb51bb8f35ec87146&chksm=f39a35e6c4edbcf04518a8b45678b599a3f387a01de2d15a291bdd5f52d2e4ababe47175c3c7&scene=0#wechat_redirect)
@@ -78,7 +79,6 @@
 
 ## 文章
 
-
 - [一文读懂微信小程序（应用号）是什么，创业者是否值得投入进来做？](https://www.huxiu.com/article/164679.html)
 - [关于微信小程序（应用号），我能透露的几个细节](https://kenengba.com/post/3515.html)
 - [关于微信小程序，我联想到的几点](https://zi.com/w/a/b32fJp)
@@ -107,6 +107,9 @@
 - - [微信小程序，仅仅是 Web App 么？](http://t.cn/RcYowhy)
 - [封闭一周开发微信应用号（小程序）](https://www.v2ex.com/t/308005#reply17)
 - [为什么要发布微信应用号](http://t.cn/RcYXsoP)
+
+## 视频
+- [微信“小程序”内部视频流出：原来是这么玩的（0923）](http://v.youku.com/v_show/id_XMTczMzk4NTgwOA==.html)
 
 ## Q&A
 - [微信应用号「小程序」最全的Q&A列表](http://t.cn/RcYXD4Q)
