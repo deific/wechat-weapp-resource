@@ -23,6 +23,7 @@
 
 - [wechatApp-demo](https://github.com/xwartz/wechatApp-demo) - 微信小程序 DEMO
 - [weapp-quick](https://github.com/phodal/weapp-quick) - 微信小应用示例代码
+- [wechat-demo](https://git.oschina.net/codebean/wechat-demo) demo
 
 ## 工具文档
 
@@ -33,11 +34,21 @@
 - [微信公众平台 API 文档 - GitHub](https://github.com/Notedown-cn/wxopen)
 - [视图组件文档](http://wxopen.notedown.cn/component/)
 
+## 资料
+
+- [微信小程序平台运营规范] (http://wxopen.notedown.cn/product/)
+- [微信小程序平台常见拒绝情形] (http://wxopen.notedown.cn/product/reject.html)
+- [微信小程序平台服务条款] (http://wxopen.notedown.cn/product/service.html)
+- [微信小程序认证指引] (http://wxopen.notedown.cn/product/renzheng.html)
+- [特殊行业所需资质材料] (http://wxopen.notedown.cn/product/material.html)
 
 ## 教程
 
+- [微信小程序开发环境搭建] (http://mp.weixin.qq.com/s?__biz=MzIyNjE4NjI2Nw==&mid=2652557458&idx=1&sn=9300a6486ffc9e9cb51bb8f35ec87146&chksm=f39a35e6c4edbcf04518a8b45678b599a3f387a01de2d15a291bdd5f52d2e4ababe47175c3c7&scene=0#wechat_redirect)
+- [开发微信小程序的必备技能图谱] (http://geek.csdn.net/news/detail/103138)
 - [简易教程](http://wxopen.notedown.cn/)
 - [常见问题](http://wxopen.notedown.cn/qa/qa.html)
+- 
 - [微信小程序怎么开发？玩物志用一个上午上线了电商应用 | 爱范儿](http://www.ifanr.com/721124)
 - [首个微信小程序开发教程！](http://gold.xitu.io/entry/57e34d6bd2030900691e9ad7)
 - [全球首个微信应用号开发教程！通宵吐血赶稿，每日更新！](https://my.oschina.net/wwnick/blog/750055)
@@ -66,6 +77,7 @@
 
 ## 文章
 
+
 - [一文读懂微信小程序（应用号）是什么，创业者是否值得投入进来做？](https://www.huxiu.com/article/164679.html)
 - [关于微信小程序（应用号），我能透露的几个细节](https://kenengba.com/post/3515.html)
 - [关于微信小程序，我联想到的几点](https://zi.com/w/a/b32fJp)
@@ -81,6 +93,8 @@
 
 
 ## 看法观点
+
+-[小程序绝对是跨平台混合开发的最好背书] (http://geek.csdn.net/news/detail/103482))
 - [从程序员的角度分析微信小程序](http://blog.csdn.net/yulianlin/article/details/52621413)
 - [微信推出小程序应用号，移动互联网第二春会来吗？](http://36kr.com/topics/98)
 - [微信小程序，一个有局限的类似 React Native 轮子！](http://www.jianshu.com/p/060c6f3dd4e8)
