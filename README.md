@@ -44,8 +44,10 @@
 
 ## 教程
 
-- [解决微信web开发者工具崩溃导致无法使用问题（0923）](http://www.jianshu.com/p/933e307da580)
+- [博卡君的应用号（小程序）开发教程首发第三弹！（0923）] (https://my.oschina.net/wwnick/blog/750974)
 - [博卡君的应用号（小程序）开发教程首发第二弹！（0923）] (https://my.oschina.net/wwnick/blog/750495)
+- [博卡君的应用号（小程序）开发教程首发第一弹！](https://my.oschina.net/wwnick/blog/750055)
+- [解决微信web开发者工具崩溃导致无法使用问题（0923）](http://www.jianshu.com/p/933e307da580)
 - [微信小程序开发环境搭建（0923）] (http://mp.weixin.qq.com/s?__biz=MzIyNjE4NjI2Nw==&mid=2652557458&idx=1&sn=9300a6486ffc9e9cb51bb8f35ec87146&chksm=f39a35e6c4edbcf04518a8b45678b599a3f387a01de2d15a291bdd5f52d2e4ababe47175c3c7&scene=0#wechat_redirect)
 - [开发微信小程序的必备技能图谱（0923）] (http://geek.csdn.net/news/detail/103138)
 - [简易教程](http://wxopen.notedown.cn/)
@@ -53,7 +55,7 @@
 - 
 - [微信小程序怎么开发？玩物志用一个上午上线了电商应用 | 爱范儿](http://www.ifanr.com/721124)
 - [首个微信小程序开发教程！](http://gold.xitu.io/entry/57e34d6bd2030900691e9ad7)
-- [全球首个微信应用号开发教程！通宵吐血赶稿，每日更新！](https://my.oschina.net/wwnick/blog/750055)
+
 - [抢先看：微信官方发布的微信应用号（小程序）设计规范](http://www.woshipm.com/ucd/418190.html)
 - [开发微信小程序入门前](https://laravel-china.org/topics/2890)
 - [微信小程序开发教程！](https://xituqu.com/508.html)
