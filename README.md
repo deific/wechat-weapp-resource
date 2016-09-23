@@ -5,6 +5,9 @@
 
 ![关注公众号，获取资源](https://github.com/deific/wechat-weapp-resource/blob/master/qrcode_togetherspace.jpg)
 
+![QQ群:496528912](https://github.com/deific/wechat-weapp-resource/blob/master/qq49652812.jpg)
+
+
 ## 目录
 
 - [开源项目](#开源项目)
