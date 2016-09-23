@@ -21,9 +21,9 @@
 
 ## 开源项目
 
+- [wechat-demo（0923）](https://git.oschina.net/codebean/wechat-demo) demo
 - [wechatApp-demo](https://github.com/xwartz/wechatApp-demo) - 微信小程序 DEMO
 - [weapp-quick](https://github.com/phodal/weapp-quick) - 微信小应用示例代码
-- [wechat-demo](https://git.oschina.net/codebean/wechat-demo) demo
 
 ## 工具文档
 
@@ -36,17 +36,17 @@
 
 ## 资料
 
-- [微信小程序平台运营规范] (http://wxopen.notedown.cn/product/)
-- [微信小程序平台常见拒绝情形] (http://wxopen.notedown.cn/product/reject.html)
-- [微信小程序平台服务条款] (http://wxopen.notedown.cn/product/service.html)
-- [微信小程序认证指引] (http://wxopen.notedown.cn/product/renzheng.html)
-- [特殊行业所需资质材料] (http://wxopen.notedown.cn/product/material.html)
+- [微信小程序平台运营规范（0923）] (http://wxopen.notedown.cn/product/)
+- [微信小程序平台常见拒绝情形（0923）] (http://wxopen.notedown.cn/product/reject.html)
+- [微信小程序平台服务条款（0923）] (http://wxopen.notedown.cn/product/service.html)
+- [微信小程序认证指引（0923）] (http://wxopen.notedown.cn/product/renzheng.html)
+- [特殊行业所需资质材料（0923）] (http://wxopen.notedown.cn/product/material.html)
 
 ## 教程
 
 - [博卡君的应用号（小程序）开发教程首发第二弹！（0923）] (https://my.oschina.net/wwnick/blog/750495)
-- [微信小程序开发环境搭建] (http://mp.weixin.qq.com/s?__biz=MzIyNjE4NjI2Nw==&mid=2652557458&idx=1&sn=9300a6486ffc9e9cb51bb8f35ec87146&chksm=f39a35e6c4edbcf04518a8b45678b599a3f387a01de2d15a291bdd5f52d2e4ababe47175c3c7&scene=0#wechat_redirect)
-- [开发微信小程序的必备技能图谱] (http://geek.csdn.net/news/detail/103138)
+- [微信小程序开发环境搭建（0923）] (http://mp.weixin.qq.com/s?__biz=MzIyNjE4NjI2Nw==&mid=2652557458&idx=1&sn=9300a6486ffc9e9cb51bb8f35ec87146&chksm=f39a35e6c4edbcf04518a8b45678b599a3f387a01de2d15a291bdd5f52d2e4ababe47175c3c7&scene=0#wechat_redirect)
+- [开发微信小程序的必备技能图谱（0923）] (http://geek.csdn.net/news/detail/103138)
 - [简易教程](http://wxopen.notedown.cn/)
 - [常见问题](http://wxopen.notedown.cn/qa/qa.html)
 - 
@@ -95,7 +95,7 @@
 
 ## 看法观点
 
--[小程序绝对是跨平台混合开发的最好背书] (http://geek.csdn.net/news/detail/103482))
+-[小程序绝对是跨平台混合开发的最好背书（0923）] (http://geek.csdn.net/news/detail/103482))
 - [从程序员的角度分析微信小程序](http://blog.csdn.net/yulianlin/article/details/52621413)
 - [微信推出小程序应用号，移动互联网第二春会来吗？](http://36kr.com/topics/98)
 - [微信小程序，一个有局限的类似 React Native 轮子！](http://www.jianshu.com/p/060c6f3dd4e8)
