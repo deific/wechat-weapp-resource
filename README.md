@@ -43,7 +43,7 @@
 - [微信小程序「官方示例代码」浅析【上】](https://zhuanlan.zhihu.com/p/22574282)
 - [微信小程序「官方示例代码」浅析【下】](https://zhuanlan.zhihu.com/p/22579053)
 - [微信小程序常见问题汇总 微信小程序有什么功能 如何申请？](http://kulianw.com/keji/201609/18558.html)
-- 
+
 ## 讨论
 
 - [开始内测的「微信公众平台 · 小程序」可能有哪些应用场景？](https://www.zhihu.com/question/50871887)
@@ -92,6 +92,6 @@
 
 ---
 
-欢迎投稿：[点击这里](https://github.com/Aufree/awesome-wechat-weapp/edit/master/README.md)
+欢迎投稿：[点击这里](https://github.com/deific/wechat-weapp-resource)
 
 ---
