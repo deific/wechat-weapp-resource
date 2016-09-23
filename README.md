@@ -43,7 +43,7 @@
 - [特殊行业所需资质材料（0923）] (http://wxopen.notedown.cn/product/material.html)
 
 ## 教程
-
+- [解决微信web开发者工具崩溃导致无法使用问题（0923）](http://www.jianshu.com/p/933e307da580)
 - [博卡君的应用号（小程序）开发教程首发第二弹！（0923）] (https://my.oschina.net/wwnick/blog/750495)
 - [微信小程序开发环境搭建（0923）] (http://mp.weixin.qq.com/s?__biz=MzIyNjE4NjI2Nw==&mid=2652557458&idx=1&sn=9300a6486ffc9e9cb51bb8f35ec87146&chksm=f39a35e6c4edbcf04518a8b45678b599a3f387a01de2d15a291bdd5f52d2e4ababe47175c3c7&scene=0#wechat_redirect)
 - [开发微信小程序的必备技能图谱（0923）] (http://geek.csdn.net/news/detail/103138)
@@ -95,7 +95,8 @@
 
 ## 看法观点
 
--[小程序绝对是跨平台混合开发的最好背书（0923）] (http://geek.csdn.net/news/detail/103482))
+- [我们真的需要“小程序”么？| HTML5老兵如是说（0923）](http://mp.weixin.qq.com/s?__biz=MzA5OTE3ODUyOA==&mid=2650960623&idx=1&sn=975819cabb2b822400449285eb66d161&chksm=8b7093a0bc071ab62ce1b79efe645d79ed8814c48e52d3fb1a7d0852a382a2c2a0f5badf80b4&scene=0&from=groupmessage&isappinstalled=0)
+- [小程序绝对是跨平台混合开发的最好背书（0923）] (http://geek.csdn.net/news/detail/103482))
 - [从程序员的角度分析微信小程序](http://blog.csdn.net/yulianlin/article/details/52621413)
 - [微信推出小程序应用号，移动互联网第二春会来吗？](http://36kr.com/topics/98)
 - [微信小程序，一个有局限的类似 React Native 轮子！](http://www.jianshu.com/p/060c6f3dd4e8)
