@@ -44,6 +44,7 @@
 
 ## 教程
 
+- [博卡君的应用号（小程序）开发教程首发第二弹！（0923）] (https://my.oschina.net/wwnick/blog/750495)
 - [微信小程序开发环境搭建] (http://mp.weixin.qq.com/s?__biz=MzIyNjE4NjI2Nw==&mid=2652557458&idx=1&sn=9300a6486ffc9e9cb51bb8f35ec87146&chksm=f39a35e6c4edbcf04518a8b45678b599a3f387a01de2d15a291bdd5f52d2e4ababe47175c3c7&scene=0#wechat_redirect)
 - [开发微信小程序的必备技能图谱] (http://geek.csdn.net/news/detail/103138)
 - [简易教程](http://wxopen.notedown.cn/)
