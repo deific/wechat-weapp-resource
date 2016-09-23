@@ -3,6 +3,8 @@
 
 整理和收集微信小程序相关资源，方便查阅和学习，欢迎大家提交新的资源，完善和补充。
 
+![关注公众号，获取资源](ithub.com/deific/wechat-weapp-resource/blob/master/qrcode_togetherspace.jpg)
+
 ## 目录
 
 - [开源项目](#开源项目)
