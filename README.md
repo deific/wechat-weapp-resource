@@ -49,6 +49,8 @@
 
 ## 资料
 
+- [微信小程序剖析：框架原理 | 在桌面浏览器上运行的（二）（0924）] (http://www.toutiao.com/i6333820509242786305/)
+- [微信小程序剖析：运行机制（一）（0924）] (http://www.toutiao.com/i6333298768707846657/)
 - [微信小程序平台运营规范（0923）] (http://wxopen.notedown.cn/product/)
 - [微信小程序平台常见拒绝情形（0923）] (http://wxopen.notedown.cn/product/reject.html)
 - [微信小程序平台服务条款（0923）] (http://wxopen.notedown.cn/product/service.html)
