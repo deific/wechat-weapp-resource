@@ -25,6 +25,19 @@
 - [wechatApp-demo](https://github.com/xwartz/wechatApp-demo) - 微信小程序 DEMO
 - [weapp-quick](https://github.com/phodal/weapp-quick) - 微信小应用示例代码
 
+
+# 微信官方资料（0924）
+
+微信官方文档和开发工具已开发，不需要再用破解开发工具，直接使用官方开发工具就好。
+
+- [简易教程] (https://mp.weixin.qq.com/debug/wxadoc/dev/?t=1474644089359)
+- [框架] (https://mp.weixin.qq.com/debug/wxadoc/dev/framework/MINA.html?t=1474644083132)
+- [组件] (https://mp.weixin.qq.com/debug/wxadoc/dev/component/?t=1474644089682)
+- [API] (https://mp.weixin.qq.com/debug/wxadoc/dev/api/?t=1474644087418)
+- [工具] (https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/devtools.html?t=1474644084689)
+- [Q&A] (https://mp.weixin.qq.com/debug/wxadoc/dev/qa/qa.html?t=1474644089359)
+
+
 ## 工具文档
 
 - [weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack/blob/master/README.md) - 微信小应用资源破解
