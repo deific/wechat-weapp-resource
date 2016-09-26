@@ -49,8 +49,9 @@
 
 ## 资料
 
-- [微信小程序剖析：框架原理 | 在桌面浏览器上运行的（二）（0924）] (http://www.toutiao.com/i6333820509242786305/)
-- [微信小程序剖析：运行机制（一）（0924）] (http://www.toutiao.com/i6333298768707846657/)
+- [微信小程序剖析（三）：为什么我们需要一个兼容「微信小程序」的Web框架？（0926）] (http://www.toutiao.com/i6334280813353370114/)
+- [微信小程序剖析（二）：框架原理 | 在桌面浏览器上运行的（0924）] (http://www.toutiao.com/i6333820509242786305/)
+- [微信小程序剖析（一）：运行机制（0924）] (http://www.toutiao.com/i6333298768707846657/)
 - [微信小程序平台运营规范（0923）] (http://wxopen.notedown.cn/product/)
 - [微信小程序平台常见拒绝情形（0923）] (http://wxopen.notedown.cn/product/reject.html)
 - [微信小程序平台服务条款（0923）] (http://wxopen.notedown.cn/product/service.html)
@@ -59,6 +60,9 @@
 
 ## 教程
 
+- [微信小程序入门干货（0926）] (http://www.toutiao.com/a6334581140863648002/)
+- [微信小程序（应用号）开发新闻客户端的实战课程(绝对干货）（0926）] (http://www.toutiao.com/a6334461358152089858/) 
+- [博卡君的应用号（小程序）开发教程首发第四弹！（0926）](https://my.oschina.net/wwnick/blog/751826)
 - [博卡君的应用号（小程序）开发教程首发第三弹！（0923）] (https://my.oschina.net/wwnick/blog/750974)
 - [博卡君的应用号（小程序）开发教程首发第二弹！（0923）] (https://my.oschina.net/wwnick/blog/750495)
 - [博卡君的应用号（小程序）开发教程首发第一弹！](https://my.oschina.net/wwnick/blog/750055)
@@ -96,6 +100,7 @@
 
 ## 文章
 
+- [微信小程序，普通人如何抓住这波万亿级红利！实现逆袭](http://www.toutiao.com/a6334518685936042241/)
 - [一文读懂微信小程序（应用号）是什么，创业者是否值得投入进来做？](https://www.huxiu.com/article/164679.html)
 - [关于微信小程序（应用号），我能透露的几个细节](https://kenengba.com/post/3515.html)
 - [关于微信小程序，我联想到的几点](https://zi.com/w/a/b32fJp)
@@ -112,6 +117,7 @@
 
 ## 看法观点
 
+- [极客思维，不一样的视角看微信小程序] (http://www.toutiao.com/a6334527463460995329/)
 - [我们真的需要“小程序”么？| HTML5老兵如是说（0923）](http://mp.weixin.qq.com/s?__biz=MzA5OTE3ODUyOA==&mid=2650960623&idx=1&sn=975819cabb2b822400449285eb66d161&chksm=8b7093a0bc071ab62ce1b79efe645d79ed8814c48e52d3fb1a7d0852a382a2c2a0f5badf80b4&scene=0&from=groupmessage&isappinstalled=0)
 - [小程序绝对是跨平台混合开发的最好背书（0923）] (http://geek.csdn.net/news/detail/103482))
 - [从程序员的角度分析微信小程序](http://blog.csdn.net/yulianlin/article/details/52621413)
