@@ -21,6 +21,14 @@
 
 ## 开源项目
 
+- [weapp-demo 豆瓣电影（0927）](https://github.com/zce/weapp-demo)
+- [wechat-v2ex（0927）](https://github.com/jectychen/wechat-v2ex/)
+- [wechat-app-zhihudaily（0927）](https://github.com/myronliu347/wechat-app-zhihudaily)
+
+- [wechat-dribbble Dribbble（0927）](https://github.com/nicesu/wechat-dribbble)
+- [wechat-weapp-gank Gank客户端（0927）](https://github.com/lypeer/wechat-weapp-gank)
+- [weapp-gold 掘金主页 （0927）](https://github.com/hilongjw/weapp-gold)
+- [wechat-weapp-mapdemo（0927）地图定位](https://github.com/giscafer/wechat-weapp-mapdemo)
 - [wechat-demo（0923）](https://git.oschina.net/codebean/wechat-demo) demo
 - [wechatApp-demo](https://github.com/xwartz/wechatApp-demo) - 微信小程序 DEMO
 - [weapp-quick](https://github.com/phodal/weapp-quick) - 微信小应用示例代码
@@ -100,6 +108,9 @@
 
 ## 文章
 
+- [微信小程序是谁的“通往财富自由之路”？](http://mp.weixin.qq.com/s?__biz=MzAxNzI4MTMwMw==&mid=2651630318&idx=1&sn=6dcbbf3b8c5f56a39a73a4ffdfc8b46a&chksm=801ff296b7687b80e0eff50a15017f1232e838c3e0bc73554f639cae229765d1168c134673f9&scene=1&srcid=0924o86DBZfkcoBWRZrN8G7K#rd)
+- [微信小程序怎么开发？玩物志用一个上午上线了电商应用](http://www.ifanr.com/721124)
+- [关于微信小程序（应用号）的底层逻辑分析和拥抱建议](https://zhuanlan.zhihu.com/p/22565340)
 - [微信小程序，普通人如何抓住这波万亿级红利！实现逆袭](http://www.toutiao.com/a6334518685936042241/)
 - [一文读懂微信小程序（应用号）是什么，创业者是否值得投入进来做？](https://www.huxiu.com/article/164679.html)
 - [关于微信小程序（应用号），我能透露的几个细节](https://kenengba.com/post/3515.html)
