@@ -21,6 +21,7 @@
 
 ## 开源项目
 
+- [小程序 CNode 社区（1001）](http://git.oschina.net/hayeah/wxapp-cnode)
 - [wxapp-Breakfast（0929） 9月28日晚8点直播开发](https://git.oschina.net/hayeah/wxapp-Breakfast)
 - [weapp-demo 豆瓣电影（0927）](https://github.com/zce/weapp-demo)
 - [wechat-v2ex（0927）](https://github.com/jectychen/wechat-v2ex/)
