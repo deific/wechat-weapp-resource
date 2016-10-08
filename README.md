@@ -21,6 +21,7 @@
 
 ## 开源项目
 
+- [微天气 - 开发一个完整的微信小程序(上)（1003）](https://github.com/swiftcafex/wechat-weather)
 - [小程序 CNode 社区（1001）](http://git.oschina.net/hayeah/wxapp-cnode)
 - [wxapp-Breakfast（0929） 9月28日晚8点直播开发](https://git.oschina.net/hayeah/wxapp-Breakfast)
 - [weapp-demo 豆瓣电影（0927）](https://github.com/zce/weapp-demo)
@@ -70,6 +71,8 @@
 
 ## 教程
 
+- [微天气 - 开发一个完整的微信小程序(中)（1008）] (http://swiftcafe.io/2016/10/08/wx-weather-app-2/)
+- [微天气 - 开发一个完整的微信小程序(上)（1003）] (http://swiftcafe.io/2016/10/03/wx-weather-app/)
 - [博卡君的应用号（小程序）开发教程首发第五弹！（0928）](https://my.oschina.net/wwnick/blog/752421)
 - [微信小程序入门干货（0926）] (http://www.toutiao.com/a6334581140863648002/)
 - [微信小程序（应用号）开发新闻客户端的实战课程(绝对干货）（0926）] (http://www.toutiao.com/a6334461358152089858/) 
