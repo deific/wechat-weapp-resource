@@ -9,18 +9,47 @@
 
 ## 目录
 
-- [开源项目](#开源项目)
-- [工具文档](#工具破解)
-- [资料](#资料)
-- [教程](#教程)
-- [讨论](#讨论)
-- [文章](#文章)
-- [看法观点](#代码)
+- [开源项目（1010更新）](#开源项目)
+- [微信官方资料（0924更新）](#微信官方资料)
+- [工具文档（0924更新）](#工具破解)
+- [资料（0924更新）](#资料)
+- [教程（1010更新）](#教程)
+- [讨论（0924更新）](#讨论)
+- [文章（0924更新）](#文章)
+- [看法观点（1010更新）](#看法观点)
+- [视频（1010更新）](#视频)
+- [Q&A（1010更新）](#Q&A)
 
 # 微信小应用资源汇总整理
 
 ## 开源项目
 
+- [微信小程序-豆瓣电影(hingsir/weapp-douban-film)（1010）](https://github.com/hingsir/weapp-douban-film)
+- [小程序 hello world 尝鲜(kunkun12/weapp)（1010）](https://github.com/kunkun12/weapp)
+- [微信小程序版2048小游戏(natee/wxapp-2048)（1010）](https://github.com/natee/wxapp-2048)
+- [微信小程序-微票(wangmingjob/weapp-weipiao)（1010）](https://github.com/wangmingjob/weapp-weipiao)
+- [微信小程序购物车DEMO(SeptemberMaples/wechat-weapp-demo)（1010）](https://github.com/SeptemberMaples/wechat-weapp-demo)
+- [微信小程序V2EX(jectychen/wechat-v2ex)（1010）](https://github.com/jectychen/wechat-v2ex)
+- [微信小程序-知乎日报(myronliu347/wechat-app-zhihudaily)（1010）](https://github.com/myronliu347/wechat-app-zhihudaily)
+- [微信小程序-公众号热门文章信息流(hijiangtao/weapp-newsapp)（1010）](https://github.com/hijiangtao/weapp-newsapp)
+- [微信小程序版Gank客户端(lypeer/wechat-weapp-gank)（1010）](https://github.com/lypeer/wechat-weapp-gank)
+- [微信小程序集成Redux实现的Todo list(charleyw/wechat-weapp-redux-todos)（1010）](https://github.com/charleyw/wechat-weapp-redux-todos)
+- [微信小程序-番茄时钟(kraaas/timer)（1010）](https://github.com/kraaas/timer)
+- [微信小程序项目汇总（1010）](http://javascript.ctolib.com/categories/javascript-wechat-weapp.html)
+- [微信小程序版聊天室(ericzyh/wechat-chat)（1010）](https://github.com/ericzyh/wechat-chat)
+- [微信小程序-HiApp(BelinChung/wxapp-hiapp)（1010）](https://github.com/BelinChung/wxapp-hiapp)
+- [小程序Redux绑定库(charleyw/wechat-weapp-redux)（1010）](https://github.com/charleyw/wechat-weapp-redux)
+- [微信小程序版微信(18380435477/WeApp)（1010）](https://github.com/18380435477/WeApp)
+- [小程序开发从布局开始(hardog/wechat-app-flexlayout（1010）)](https://github.com/hardog/wechat-app-flexlayout)
+- [微信小程序-音乐播放器(eyasliu/wechat-app-music)（1010）](https://github.com/eyasliu/wechat-app-music)
+- [微信小程序-简易计算器-适合入门（dunizb/wxapp-sCalc）（1010）](https://github.com/dunizb/wxapp-sCalc)
+- [微信小程序-github(zhengxiaowai/weapp-github（1010）)](https://github.com/zhengxiaowai/weapp-github)
+- [微信小程序-小熊の日记(harveyqing/BearDiary)（1010）](https://github.com/harveyqing/BearDiary)
+- [微信小程序(Seahub/PigRaising)（1010）](https://github.com/SeaHub/PigRaising)
+- 
+- [灵犀新闻客户端-基于微信小程序（应用号）开发（1010） ](http://git.oschina.net/dotton/news)
+- [微信小程序（应用号）实战课程之记账软件开发（1010） ](http://git.oschina.net/dotton/finance)
+- [微信小程序版 简易情绪音乐播放器（1010）] (http://git.oschina.net/laohuangshu/wmusic)
 - [微天气 - 开发一个完整的微信小程序(上)（1003）](https://github.com/swiftcafex/wechat-weather)
 - [小程序 CNode 社区（1001）](http://git.oschina.net/hayeah/wxapp-cnode)
 - [wxapp-Breakfast（0929） 9月28日晚8点直播开发](https://git.oschina.net/hayeah/wxapp-Breakfast)
@@ -135,6 +164,7 @@
 
 ## 看法观点
 
+- [[原创]微信小程序可能会造就千万个一万富翁,看看会是哪些人？（1010）](http://weappdev.com/t/topic/86)
 - [极客思维，不一样的视角看微信小程序] (http://www.toutiao.com/a6334527463460995329/)
 - [我们真的需要“小程序”么？| HTML5老兵如是说（0923）](http://mp.weixin.qq.com/s?__biz=MzA5OTE3ODUyOA==&mid=2650960623&idx=1&sn=975819cabb2b822400449285eb66d161&chksm=8b7093a0bc071ab62ce1b79efe645d79ed8814c48e52d3fb1a7d0852a382a2c2a0f5badf80b4&scene=0&from=groupmessage&isappinstalled=0)
 - [小程序绝对是跨平台混合开发的最好背书（0923）] (http://geek.csdn.net/news/detail/103482))
@@ -150,9 +180,16 @@
 - [为什么要发布微信应用号](http://t.cn/RcYXsoP)
 
 ## 视频
+- [视频 - 全网首个微信小程序开发视频教程（1010）](http://www.howzhi.com/course/15035/)
+- [视频 - 微信小程序开发实战第一季(CSDN)（1010）](http://edu.csdn.net/course/detail/3011)
+- [视频 - 微信小程序开发实战第二季(CSDN)（1010）](http://edu.csdn.net/course/detail/3045)
+- [视频 - 极客学院微信小程序开发（1010）](http://www.jikexueyuan.com/zhiye/course/34.html?type=8&utm_source=jike&utm_medium=www_index_cf&utm_campaign=wechat_app&utm_content=0930)
+- [视频 - 微信小程序新手入门(51CTO)（1010）](http://edu.51cto.com/course/course_id-7242.html)
 - [微信“小程序”内部视频流出：原来是这么玩的（0923）](http://v.youku.com/v_show/id_XMTczMzk4NTgwOA==.html)
 
 ## Q&A
+
+- [关于小程序，我知道你想知道这些（1010）](http://mp.weixin.qq.com/s?__biz=MzI1NzQ3NTAzMA==&mid=2247483685&idx=1&sn=7da28d755de43b0559b8fa3ddded06af&chksm=ea17a99cdd60208a794b4360758dbc57cd9070537d2c926f90e98604c3c0288386400082bf50&mpshare=1&scene=1&srcid=101034VjRLrwAss0ZNu13Mb8#wechat_redirect)
 - [微信应用号「小程序」最全的Q&A列表](http://t.cn/RcYXD4Q)
 
 ---
