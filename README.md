@@ -66,10 +66,12 @@
 - [weapp-quick](https://github.com/phodal/weapp-quick) - 微信小应用示例代码
 
 
-# 微信官方资料（0924）
+# 微信官方资料（1104）
 
 微信官方文档和开发工具已开发，不需要再用破解开发工具，直接使用官方开发工具就好。
-
+- [微信公众平台小程序开放公测 (1104))](https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncement&key=1478163659&version=15&lang=zh_CN)
+- [设计指南（1104）](https://mp.weixin.qq.com/debug/wxadoc/design/index.html)
+- [开发教程（1104）](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html)
 - [简易教程] (https://mp.weixin.qq.com/debug/wxadoc/dev/?t=1474644089359)
 - [框架] (https://mp.weixin.qq.com/debug/wxadoc/dev/framework/MINA.html?t=1474644083132)
 - [组件] (https://mp.weixin.qq.com/debug/wxadoc/dev/component/?t=1474644089682)
